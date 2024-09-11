@@ -1,0 +1,13 @@
+.is-command{
+  @apply bg-indigo-700 bg-opacity-10 hover:bg-opacity-20
+}
+
+
+.is-doubleSize{
+  @apply w-2/4
+}
+
+
+.is-pressed{
+  @apply bg-indigo-800 bg-opacity-20
+}
